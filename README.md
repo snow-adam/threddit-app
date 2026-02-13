@@ -14,7 +14,7 @@
 - <h4><!-- Feature 5 --></h4>
 
 <h2>Technologies</h2>
-<a href="https://adamsnow.dev">
+<a href="https://threddit-app.vercel.app">
   <img src="https://skillicons.dev/icons?i=react,js,redux,vite,vercel">
 </a>
 
