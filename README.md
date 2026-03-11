@@ -1,5 +1,5 @@
 <h1>Threddit App</h1>
-<h4><!-- Description --></h4>
+<h4>This is app is a work in progress, more coming soon.</h4>
 
 <h3>
   <a href="https://threddit-app.vercel.app">Live Preview</a>
@@ -15,15 +15,10 @@
 
 <h2>Technologies</h2>
 <a href="https://threddit-app.vercel.app">
-  <img src="https://skillicons.dev/icons?i=react,js,redux,vite,vercel">
+  <img src="https://skillicons.dev/icons?i=react,js,github,vite,vercel">
 </a>
 
 <h2>Screenshots</h2>
-<!--
 <a href="https://threddit-app.vercel.app">
   <img src="public/images/home-screenshot.png">
 </a>
-<a href="https://threddit-app.vercel.app/feed">
-  <img src="public/images/feed-screenshot.png">
-</a>
--->
