@@ -1,5 +1,5 @@
 <h1>Threddit App</h1>
-<h4>This is app is a work in progress, more coming soon.</h4>
+<h4>This app is a work in progress, more coming soon.</h4>
 
 <h3>
   <a href="https://threddit-app.vercel.app">Live Preview</a>
