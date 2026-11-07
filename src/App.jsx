@@ -1,9 +1,14 @@
-function App() {
+import NavigationBar from "./NavigationBar";
+import Feed from "./Feed";
+import Suggestions from "./Suggestions";
+import "./App.css"
+
+export default function App() {
   return (
     <div>
-      <h1>Threddit App</h1>
+      <NavigationBar />
+      <Feed />
+      <Suggestions />
     </div>
   )
 }
-
-export default App;
